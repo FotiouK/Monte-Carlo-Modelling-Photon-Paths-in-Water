@@ -10,7 +10,7 @@ The presented Python code utilises Monte Carlo simulations to model the trajecto
 
 
 ### For Whom Is This Repository Targeted?
-<img height = "400" width = "450"  align ="left" src="Images/attenuation.png">
+<img height = "400" width = "400"  align ="left" src="Images/attenuation.png">
 <br\>
 This repository serves as a comprehensive resource designed to provide insight into the intricate interactions between photons and matter, along with an introduction to the principles of Monte Carlo simulations. 
 <br\>
