@@ -36,7 +36,7 @@ This repository serves as a comprehensive resource designed to provide insight i
 
 2. **Simulated Photon Energies**
    - The simulation focuses on two photon energies: 50 keV and 2 MeV.
-   - Customize photon energies directly in the code (see section 0)
+   - Customise photon energies directly in the code (see section 0)
 
 3. **Execute the Simulation**
    - Run the entire Jupyter Notebook to perform the simulation.
