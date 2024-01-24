@@ -23,7 +23,6 @@ This repository serves as a comprehensive resource designed to provide insight i
 <br>
 <br>
 <br>
-<br>
 <p align="center">
   <img height = "400" src="Images/monte_carlo.png">
 </p>
