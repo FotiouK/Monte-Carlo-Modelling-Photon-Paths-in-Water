@@ -1,5 +1,5 @@
 # Monte Carlo: Modelling Photon Paths in Water
-  
+
 ### Introduction
 The presented Python code utilises Monte Carlo simulations to model the trajectories of photons interacting with water based on their energy. Monte Carlo methods are powerful tools in physics for stochastic modelling, and in this context, they are applied to emulate the intricate interactions between photons and water. The simulation accounts for various interaction processes such as Compton scattering, the photoelectric effect, and pair production, which collectively contribute to the attenuation of photons in the travelling medium.
 
