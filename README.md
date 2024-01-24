@@ -17,7 +17,8 @@ This repository serves as a comprehensive resource designed to provide insight i
 Explore in-depth insights into photon interactions, including discussions on the photoelectric effect, Compton scattering, and pair production, accompanied by practical guidance on their simulation techniques. Additionally, this repository serves as a great introduction to Monte Carlo modelling. Monte Carlo experimentation is the use of simulated random numbers to estimate some functions of a probability distribution. Techniques such as Inverse Function and Accept/Reject methods are illustrated in this repository.
 <br>
 This repository serves as a comprehensive resource designed to provide insight into the intricate interactions between photons and matter, along with an introduction to the principles of Monte Carlo simulations. Tailored for both students and professors, the content aims to facilitate a profound understanding of these phenomena and simulation techniques. Whether you're an aspiring learner or an educator seeking illustrative materials for classroom use, this repository offers valuable insights and practical examples.
-
+<br>
+<br>
 <p align="center">
   <img height = "400" src="Images/monte_carlo.png">
 </p>
