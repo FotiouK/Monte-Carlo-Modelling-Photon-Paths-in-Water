@@ -1,6 +1,6 @@
 # Monte Carlo: Modelling Photon Paths in Water
 
-### Introduction
+## Introduction
 The presented Python code utilises Monte Carlo simulations to model the trajectories of photons interacting with water based on their energy. Monte Carlo methods are powerful tools in physics for stochastic modelling, and in this context, they are applied to emulate the intricate interactions between photons and water. The simulation accounts for various interaction processes such as Compton scattering, the photoelectric effect, and pair production, which collectively contribute to the attenuation of photons in the travelling medium.
 <br>
 The code is organised into distinct sections, covering simulated photon energies, photon interactions, attenuation mechanisms, interaction probabilities, scattered photon energy calculations, Compton scattering angle sampling and the simulation of photon paths in a medium.
@@ -11,7 +11,7 @@ The code is organised into distinct sections, covering simulated photon energies
 
 
 
-### For Whom Is This Repository Targeted?
+## For Whom Is This Repository Targeted?
 <img height = "330" width = "400"  align ="left" src="Images/attenuation.png">
 <br\>
 This repository serves as a comprehensive resource designed to provide insight into the intricate interactions between photons and matter, along with an introduction to the principles of Monte Carlo simulations. 
@@ -24,3 +24,36 @@ This repository serves as a comprehensive resource designed to provide insight i
 <p align="center">
   <img height = "400" src="Images/monte_carlo.png">
 </p>
+
+
+
+## Usage Instructions
+
+1. **Download and Run the Jupyter Notebook**
+   - Download the provided Jupyter Notebook file (`.ipynb`).
+   - Run the notebook using a Jupyter Notebook environment.
+
+2. **Simulated Photon Energies**
+   - The simulation focuses on two photon energies: 50 keV and 2 MeV.
+   - Customize photon energies directly in the code (see section 0)
+
+3. **Execute the Simulation**
+   - Run the entire Jupyter Notebook to perform the simulation.
+   - Observe detailed insights into photon interactions, paths, and energy changes.
+
+4. **Explore and Analyse**
+   - Analyse visualisations, graphs, and data in the notebook.
+   - Compare photon paths and interactions at different energy levels.
+
+5. **Modify Parameters (Optional)**
+   - Experiment with parameters like the number of simulated photons, cutoff energy, and step length.
+   - Gain deeper insights into photon behaviour in the simulated environment.
+   - Gain greater understanding of Monte Carlo simulation techniques.
+
+Feel free to interact with the code, experiment with parameters, and enhance your understanding of photon interactions through Monte Carlo simulations.
+
+
+## License 
+This project is provided under the MIT License. You are welcome to use, modify, and distribute the codes presented in the repository under the terms of the MIT License. Please refer to the "LICENSE" file and the accompanying license documentation for full details.
+
+
