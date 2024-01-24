@@ -53,7 +53,9 @@ This repository serves as a comprehensive resource designed to provide insight i
 Feel free to interact with the code, experiment with parameters, and enhance your understanding of photon interactions through Monte Carlo simulations.
 
 
-<img height = 400 src="Images/interaction_probability.png">
+<p align="center">
+  <img height = 300 src="Images/interaction_probability.png">
+</p>
 
 ## License 
 This project is provided under the MIT License. You are welcome to use, modify, and distribute the codes presented in the repository under the terms of the MIT License. Please refer to the "LICENSE" file and the accompanying license documentation for full details.
