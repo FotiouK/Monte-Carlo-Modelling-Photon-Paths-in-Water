@@ -62,5 +62,5 @@ This project is provided under the MIT License. You are welcome to use, modify, 
 We welcome contributions, suggestions, and ideas for future improvements. If you have any insights, additional features, or enhancements you'd like to see, feel free to contribute. Create pull requests or open issues on the GitHub repository to share your thoughts and collaborate on making this resource even better.
 
 ## Contact
-If you have any questions, suggestions, or need assistance, please do not hesitate to contact us at [your_email@example.com](mailto:your_email@example.com).
+If you have any questions, suggestions, or need assistance, please do not hesitate to contact us at [kyriakosfotiou1@gmail.com](mailto:kyriakosfotiou1@gmail.com).
 
