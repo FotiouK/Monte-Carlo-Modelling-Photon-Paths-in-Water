@@ -54,6 +54,8 @@ Feel free to interact with the code, experiment with parameters, and enhance you
 
 
 ## License 
+<img height = "330" width = "500"  align ="Right" src="Images/interaction_probability.png">
+<br\>
 This project is provided under the MIT License. You are welcome to use, modify, and distribute the codes presented in the repository under the terms of the MIT License. Please refer to the "LICENSE" file and the accompanying license documentation for full details.
 
 
