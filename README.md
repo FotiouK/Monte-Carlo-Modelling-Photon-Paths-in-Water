@@ -22,7 +22,6 @@ Explore in-depth insights into photon interactions, including discussions on the
 This repository serves as a comprehensive resource designed to provide insight into the intricate interactions between photons and matter, along with an introduction to the principles of Monte Carlo simulations. Tailored for both students and professors, the content aims to facilitate a profound understanding of these phenomena and simulation techniques. Whether you're an aspiring learner or an educator seeking illustrative materials for classroom use, this repository offers valuable insights and practical examples.
 <br>
 <br>
-<br>
 <p align="center">
   <img height = "400" src="Images/monte_carlo.png">
 </p>
